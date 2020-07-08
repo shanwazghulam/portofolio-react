@@ -17,7 +17,14 @@ const Experience = () => {
               <Card.Header
                 as="h5"
                 className="d-flex justify-content-center flex-wrap"
-              ></Card.Header>
+              >
+                <Card.Img
+                  variant="top"
+                  className="img-resize"
+                  src={L_ACCENTURE}
+                  alt="Accenture logo"
+                />
+              </Card.Header>
               <Card.Body className="d-flex justify-content-center flex-column">
                 <div>
                   <Card.Title className="text-center">
@@ -26,14 +33,16 @@ const Experience = () => {
                 </div>
                 <div>
                   <Card.Text className="text-center style">
-                    <strong>Koikil:</strong> Full Stack Developer Juin-2019
+                    <strong>Koikil:</strong> Full Stack Developer
                     <br />
-                    <strong>OuiCar:</strong> Développeur full-stack
-                    Septembre-2019
+                    <strong>Role:</strong> Développeur full-stack
                     <br />
-                    <strong>Degetel:</strong> Développeur web fevrier-2020
+                    <strong>Description:</strong> Réalisation d'un MVP from
+                    scratch
                     <br />
-                    <strong>Myra:</strong> Développeur React-Native mai-2020
+                    <strong>Technology:</strong> ReactJS-NodeJS
+                    <br />
+                    <strong>Duration:</strong> June 2019 - Present
                   </Card.Text>
                 </div>
               </Card.Body>

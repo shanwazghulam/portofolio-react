@@ -29,21 +29,18 @@ const About = () => {
               <Row className=" align-items-start p-2 my-details rounded">
                 Hello! Je suis <strong>&nbsp;Shanwaz Ghulam</strong>
                 <br />
-                Programmeur passionnée. Je suis développeur web sur des techno
-                tels que ReactJS React-Native HTML/CSS
+                Après plusieurs années d'expérience dans la gestion
+                d'entreprise, j'ai souhaité me reconvertir dans le développement
+                web. Une formation certifiante m'a permis d'acquérir rapidement
+                toutes les connaissances techniques requises et de les appliquer
+                dans ce cadre, sur des projets professionnels concluants. Je
+                recherche à présent à mettre mes nouvelles compétences dans ce
+                domaine.
                 <br />
-                In 2019, I successfully completed my Engineering with
-                specialization in 'Electronics and Telecommunication'.
                 <br />
-                Working with the clients, my goal is always driven towards
-                providing amazing experience with the best level of quality and
-                service to them.
-                <br />
-                Along with that, I also help people as a COACH on their journey
-                of becoming a professional programmer. I love learning about new
-                technologies, what problems are they solving and How can I use
-                them to build better and scalable products.
-                <br /> <br />
+                Je participe à plusieurs action, principalement aux maraudes
+                sociales et alimentaires. Passionné également par le sports, je
+                pratique du foot en club.
                 <Col className="d-flex justify-content-center flex-wrap">
                   <div>
                     <a href="#contact">
