@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29074617d4095c75b7f80dc43f8a7537",
+    "revision": "3c5f97e4feda423cfd32881dab3f2377",
     "url": "/portofolio-react/index.html"
   },
   {
-    "revision": "7aa31f2bcf8d0f88fc71",
+    "revision": "104c62cc8b1217b00de5",
     "url": "/portofolio-react/static/css/2.1f4d361e.chunk.css"
   },
   {
-    "revision": "e2d4b25239bf2cb00f33",
-    "url": "/portofolio-react/static/css/main.ed3d5dff.chunk.css"
+    "revision": "0664a9417bd8defb9292",
+    "url": "/portofolio-react/static/css/main.36b34d0a.chunk.css"
   },
   {
-    "revision": "7aa31f2bcf8d0f88fc71",
-    "url": "/portofolio-react/static/js/2.40c293f9.chunk.js"
+    "revision": "104c62cc8b1217b00de5",
+    "url": "/portofolio-react/static/js/2.86f04e30.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portofolio-react/static/js/2.40c293f9.chunk.js.LICENSE.txt"
+    "url": "/portofolio-react/static/js/2.86f04e30.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2d4b25239bf2cb00f33",
-    "url": "/portofolio-react/static/js/main.6fb2aa38.chunk.js"
+    "revision": "0664a9417bd8defb9292",
+    "url": "/portofolio-react/static/js/main.6dc7280a.chunk.js"
   },
   {
     "revision": "7580dd19cbe0fc311d80",
     "url": "/portofolio-react/static/js/runtime-main.86eb60a1.js"
-  },
-  {
-    "revision": "21999f09aca6272cd15a16d949434923",
-    "url": "/portofolio-react/static/media/accenture-3.21999f09.svg"
   },
   {
     "revision": "bf989778565c49da91f9e0ef13dbdc5c",
@@ -72,16 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio-react/static/media/javascript.2d2e31cc.svg"
   },
   {
-    "revision": "54d7bddcd3019ec3c3b23db00160ccef",
-    "url": "/portofolio-react/static/media/mssql.54d7bddc.svg"
-  },
-  {
     "revision": "a123152868245dee71c441124a98ac3e",
     "url": "/portofolio-react/static/media/nodejs.a1231528.svg"
-  },
-  {
-    "revision": "d7c985e7cca077dc2d77f89a66573e35",
-    "url": "/portofolio-react/static/media/postgresql.d7c985e7.svg"
   },
   {
     "revision": "033e67c29644c68ff113c3ca06349dc4",
