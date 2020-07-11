@@ -29,16 +29,16 @@ const About = () => {
               <Row className=" align-items-start p-2 my-details rounded">
                 Hello! Je suis <strong>&nbsp;Shanwaz Ghulam</strong>
                 <br />
-                Après plusieurs années d'expérience dans la gestion
+                Après plusieurs années d'expériences dans la gestion
                 d'entreprise, j'ai souhaité me reconvertir dans le développement
-                web. Une formation certifiante m'a permis d'acquérir rapidement
-                toutes les connaissances techniques requises et de les appliquer
-                dans ce cadre, sur des projets professionnels concluants. Je
-                recherche à présent à mettre mes nouvelles compétences dans ce
-                domaine.
+                web. Une formation certifiante qui m'a permis d'acquérir
+                rapidement toutes les connaissances techniques requises et de
+                les appliquer dans ce cadre, sur des projets professionnels
+                concluants. Je recherche dès à présent à mettre mes compétences
+                dans un nouveau projet.
                 <br />
                 <br />
-                Je participe à plusieurs action, principalement aux maraudes
+                Je participe à plusieurs actions, principalement aux maraudes
                 sociales et alimentaires. Passionné également par le sports, je
                 pratique du foot en club.
                 <Col className="d-flex justify-content-center flex-wrap">
