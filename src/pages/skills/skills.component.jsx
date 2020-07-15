@@ -14,8 +14,8 @@ import L_REACT_ROUTER from "../../assets/img/skills/react-router.svg";
 import L_REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../assets/img/skills/express.svg";
-// import L_POSTGRESQL from "../../assets/img/skills/postgresql.svg";
-// import L_MSSQL from "../../assets/img/skills/mssql.svg";
+import L_REACTNATIVE from "../../assets/img/skills/react-native.png";
+import L_MONGOBD from "../../assets/img/skills/mongodb.png";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_HEROKU from "../../assets/img/skills/heroku.svg";
 import L_GITHUB_PAGES from "../../assets/img/skills/github.svg";
@@ -118,6 +118,23 @@ const Skills = () => {
                         className="image-style m-1"
                       ></Image>{" "}
                       Bootstrap 4
+                    </a>
+                  </span>
+
+                  <span className="p-2">
+                    <a
+                      className="text-dark text-decoration-none"
+                      href="https://reactnative.dev/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <Image
+                        src={L_REACTNATIVE}
+                        alt="React-Native"
+                        rounded
+                        className="image-style m-1"
+                      ></Image>{" "}
+                      React-Native
                     </a>
                   </span>
 
@@ -314,7 +331,7 @@ const Skills = () => {
 
             {/* Database */}
 
-            {/* <Card className="focus mt-2 mb-2">
+            <Card className="focus mt-2 mb-2">
               <Card.Body>
                 <Card.Title className="text-center  card-title">
                   Database
@@ -324,38 +341,22 @@ const Skills = () => {
                   <span className="p-2">
                     <a
                       className="text-dark text-decoration-none"
-                      href="https://www.postgresql.org/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Image
-                        src={L_POSTGRESQL}
-                        alt="PostgreSQL"
-                        rounded
-                        className="image-style m-1"
-                      ></Image>{" "}
-                      PostgreSQL
-                    </a>
-                  </span>
-                  <span className="p-2">
-                    <a
-                      className="text-dark text-decoration-none"
                       href="https://www.microsoft.com/en-us/sql-server/sql-server-2019"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <Image
-                        src={L_MSSQL}
+                        src={L_MONGOBD}
                         alt="MS-SQL"
                         rounded
                         className="image-style m-1"
                       ></Image>{" "}
-                      MS-SQL
+                      MongoDB
                     </a>
                   </span>
                 </Card.Text>
               </Card.Body>
-            </Card> */}
+            </Card>
             {/* Version Control */}
 
             <Card className="focus mt-2 mb-2">
